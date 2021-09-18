@@ -50,11 +50,11 @@ https://rpcs3.net/download
 
 https://github.com/raelgc/retropie_rpcs3
 
-Ps4 (spine Linux)
+Ps4 ([spine](https://drive.google.com/file/d/1-C5J8hyIdf60v0f9OsEHOPeYPETI0kX7/view?usp=drivesdk) Linux)
 
 https://wololo.net/2021/09/08/release-spine-ps4-emulator-v-20210901-ps4-emulator-for-linux/
 
-Mirror: https://drive.google.com/file/d/1-C5J8hyIdf60v0f9OsEHOPeYPETI0kX7/view?usp=drivesdk
+Mirror: 
 
 https://github.com/devofspine/spinedemo
 
