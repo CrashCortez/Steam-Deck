@@ -83,6 +83,10 @@ Xcloud
 
 https://pocketnow.com/heres-how-to-play-full-xbox-games-on-linux-with-xcloud-video
 
+Gamepass
+
+https://www.xbox.com/en-US/PLAY
+
 Geoforce Now 
 
 https://github.com/hmlendea/geforcenow-electron
