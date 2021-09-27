@@ -94,3 +94,8 @@ https://github.com/hmlendea/geforcenow-electron
 Gamehub
 
 https://github.com/tkashkin/GameHub
+
+Gamescope
+
+https://github.com/Plagman/gamescope
+
